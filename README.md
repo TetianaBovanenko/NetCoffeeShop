@@ -1,4 +1,6 @@
 # NetCoffeeShop
+![Logo](https://github.com/your-username/NetCoffeeShop/blob/main/logo.png)
+
 
 ## Introduction
 NetCoffeeShop is a Python-based console application designed to simulate a coffee shop ordering system. Customers can place orders from a predefined menu, and the system will generate receipts and log orders into a file. The application supports multiple customers and handles invalid inputs gracefully.

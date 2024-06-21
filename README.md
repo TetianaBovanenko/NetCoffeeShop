@@ -1,5 +1,5 @@
 # NetCoffeeShop
-![Logo](https://github.com/your-username/NetCoffeeShop/blob/main/logo.png)
+![NetCoffeeShop Logo](https://github.com/TetianaBovanenko/NetCoffeeShop/blob/main/NetCoffee%20Logo.jpg?raw=true)
 
 
 ## Introduction
